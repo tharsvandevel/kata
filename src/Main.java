@@ -15,7 +15,7 @@ public class Main {
             System.out.println("“Password must be at least 8 characters”");
         }
         else {
-            System.out.println("Password is valid");
+            System.out.println(password +" is valid");
         }
         //ik heb de rest niet kunnen laten werken dus heb ik het verwijdert
     }
