@@ -13,6 +13,7 @@ public class Main {
         String letters[] = password.split("");
         System.out.println(password);
         System.out.println(letters);
+
         for (int i = 0; i < letters.length; i++) {
             System.out.println(letters[i]);
         }
