@@ -1,12 +1,6 @@
 import javax.swing.*;
-import java.awt.*;
-import java.util.ArrayList;
 
 public class Main {
-
-
-
-
 
     public void checkPassword() {
         String password = JOptionPane.showInputDialog("Geef uw wachtwoord.");
